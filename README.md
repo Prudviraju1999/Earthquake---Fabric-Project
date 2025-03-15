@@ -1,7 +1,9 @@
 # Global Earthquake Visualization: A Microsoft Fabric Project
 
 
-**"Global Earthquakes: Visualize the world's seismic activity."**
+<img width="723" alt="Report" src="https://github.com/user-attachments/assets/509b09a7-4c72-483a-9892-744292ef941f" />
+
+
 
 This project leverages the power of Microsoft Fabric to create an interactive and informative visualization of global earthquake data sourced from the USGS API. It provides a clear and engaging way to explore worldwide seismic events.
 
@@ -18,6 +20,14 @@ This project leverages the power of Microsoft Fabric to create an interactive an
     * Enriches earthquake data with country codes using reverse geocoding.
 * **Summary Statistics:**
     * Displays the total number of earthquakes and the maximum significance within the selected date range.
+
+## Project Outline
+
+<img width="926" alt="Project Flow" src="https://github.com/user-attachments/assets/22e4e549-5fa9-48b1-aa10-85f4b37ee458" />
+
+
+<img width="768" alt="Earthquake lineage" src="https://github.com/user-attachments/assets/ab810669-90d3-4e09-808c-5c097516ef2f" />
+
 
 ## Technologies Used
 
