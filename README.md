@@ -28,6 +28,10 @@ This project leverages the power of Microsoft Fabric to create an interactive an
 
 <img width="768" alt="Earthquake lineage" src="https://github.com/user-attachments/assets/ab810669-90d3-4e09-808c-5c097516ef2f" />
 
+## Data Source
+
+[Link to USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/#parameters)
+
 
 ## Technologies Used
 
@@ -60,12 +64,10 @@ This project leverages the power of Microsoft Fabric to create an interactive an
 4.  **Visualization (Power BI):**
     * Interactive dashboards are created to visualize the enriched data.
 
-## Getting Started
+## View the Report
 
-1.  **View the Report:**
-    * [Link to Power BI Report](YOUR_POWER_BI_REPORT_LINK_HERE)
-2.  **Explore the Code:**
-    * (If applicable, add a link to a GitHub repository or code location)
+[Link to Power BI Report](https://app.powerbi.com/groups/2ac10b14-3cf9-4b70-b2e2-b605206d673c/reports/6890675b-910d-433d-ba20-e342508db12d/e58b322cbc35c04557aa?experience=fabric-developer&clientSideAuth=0)
+
 
 ## Usage
 
